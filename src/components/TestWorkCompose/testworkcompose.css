@@ -1,0 +1,49 @@
+td,
+tr {
+  color: white;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.recordlist {
+  margin-top: 80px;
+  text-align: center;
+  color: aqua;
+}
+
+#cssTable td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.NS {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  text-align: center;
+}
+
+h4 {
+  color: #bf1650;
+}
+
+.NS1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 50;
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(79, 98, 148);
+}
